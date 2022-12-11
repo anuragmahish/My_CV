@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+h1{
+    color: brown;
+}
+h3{
+    color: brown;
+}
+p{
+    color: green;
+}
+hr{
+    border-color: yellow;
+    border-style: none;
+    border-top-style: dotted;
+    width: 3%;
+    height: 2px;
+}
