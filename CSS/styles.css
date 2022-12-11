@@ -18,6 +18,10 @@ hr{
     width: 3%;
     height: 10px;
 }
-li{
-    color: brown;
+table{
+    color: green;
 }
+ul{
+    color: green;
+}
+
