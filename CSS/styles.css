@@ -16,5 +16,8 @@ hr{
     border-style: none;
     border-top-style: dotted;
     width: 3%;
-    height: 2px;
+    height: 10px;
+}
+li{
+    color: brown;
 }
